@@ -40,6 +40,8 @@ title: Website of Niels W. Hanson
 
 For an up-to-date list see my [google scholar page](http://scholar.google.ca/).
 
+* Dongjae Kim, Kishori M. Konwar, **Niels W. Hanson**, Steven J. Hallam. *Koonkie: An Automated Software Tool for Processing Environmental Sequence Information using Hadoop*, ASE BigData 2014. Harvard University, December 14-16, 2014.[http://www.ase360.org/handle/123456789/164](http://www.ase360.org/handle/123456789/164)
+
 * **Niels W. Hanson**, Kishori M. Konwar,  Alyse K. Hawley, Tomer Altman, Peter D. Karp, Steven J. Hallam. *Metabolic pathways for the whole community*, BMC Genomics. July 2014. [doi:10.1186/1471-2164-15-619](http://dx.doi.org/10.1186/1471-2164-15-619)
 		  
 * **Niels W. Hanson**, Kishori M. Konwar, Shang-Ju Wu, Steven J. Hallam. *MetaPathways v2.0: A master-worker model for environmental Pathway/Genome Database construction on grids and clouds.* Proceedings of the 2014 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2014), Honolulu, HI, USA, May 21-24, 2014. [doi:10.1109/CIBCB.2014.6845516](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6845516)

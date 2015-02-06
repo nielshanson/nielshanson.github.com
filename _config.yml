@@ -1,0 +1,12 @@
+    destination: ./_site
+    lsi:         false
+    port:        4000
+    highlighter:    pygments
+    permalink:   date
+    name: Niels Hanson
+    description: Web site for Niels Hanson
+    url: http://www.nielshanson.com
+    safe: true
+    markdown: redcarpet
+    redcarpet:
+      extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]

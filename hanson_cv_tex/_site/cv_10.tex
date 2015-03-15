@@ -1,0 +1,305 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Friggeri Resume/CV
+% XeLaTeX Template
+% Version 1.1 (9/2/15)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Adrien Friggeri (adrien@friggeri.net)
+% https://github.com/afriggeri/CV
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important notes:
+% This template needs to be compiled with XeLaTeX and the bibliography, if used,
+% needs to be compiled with biber rather than bibtex.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[print]{friggeri-cv} % Add 'print' as an option into the square bracket to remove colors from this template for printing
+
+\addbibresource{bibliography.bib} % Specify the bibliography file to include publications
+
+\begin{document}
+
+\header{Niels}{Hanson}{Bioinformatics Ph.D. Candidate } % Your name and current job title/field
+
+%----------------------------------------------------------------------------------------
+%	SIDEBAR SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{aside} % In the aside, each new line forces a line break
+\section{Contact}
+4557 West 14th Ave.
+Vancouver, B.C.
+Canada
+~
++1 (778) 385 4465
+~
+\href{mailto:nielshanson@gmail.com}{nielshanson@gmail.com}
+\href{http://www.nielshanson.com}{nielshanson.com}
+\href{http://www.github.com/nielshanson}{GitHub:nielshanson}
+\section{Programming}
+Python, R, Java, C++, JavaScript, PHP
+\end{aside}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Education}
+
+\begin{entrylist}
+%------------------------------------------------
+\entry
+{2006--2011}
+{B.Sc. {\normalfont  Computer Science (Statistics Minor)}}
+{University of British Columbia}
+{}
+%------------------------------------------------
+\end{entrylist}
+
+\section{Awards}
+
+\begin{entrylist}
+%------------------------------------------------
+\entry
+{2012}
+{Four Year Doctoral Fellowship (4YF)}
+{University of British Columbia}
+{Awarded to incoming doctoral graduate students awarded on academic excellence, upon the recommendation of the graduate program.}
+%------------------------------------------------
+\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+\section{Experience}
+\begin{entrylist}
+%------------------------------------------------
+\entry
+{2011--Now}
+{Steven J. Hallam Laboratory}
+{University of British Columbia}
+{\emph{Bioinformatics Ph.D. Candidate} \\
+Primary research focuses on the development of MetaPathways, a pipeline developed in Python and C++ for the Big Data processing and analysis challenges of next-generation environmental sequence information. The software accommodates a wide range of experimental conditions, integrates with HPC resources via a master-worker model, and is controlled locally via user-friendly GUI. Moreover, I am involved in all areas of lab data analysis and research, and have utilized a combination of Python and R to develop bespoke solutions to a variety analytical challenges.
+}
+\end{entrylist}
+%------------------------------------------------
+\begin{entrylist}
+\entry
+{2011}
+{Microbiology and Immunology}
+{University of British Columbia}
+{\emph{Software Developer} \\
+Developer of RameyDB, a database-driven web-application for the cataloging of bacterial strains and plasmids at the University of British Columbia. Utilized the LAMP stack, JavaScript, and PHP to create an easy-to-use web interface. Implemented a number of features to improve usability including an advance search form, user search histories, and intelligent autocomplete to ease data entry. }
+\end{entrylist}
+%------------------------------------------------
+\begin{entrylist}
+\entry
+{2010}
+{Evan E. Eichler Laboratory}
+{University of Washington}
+{\emph{Bioinformatics Intern} \\
+Summer research position involved the development of a database-driven human genome visualization software for analysis of autistic genomes. Designed and implemented MySQL back-end database and a Java Swing-based GUI and visualization environment for genetic variants predicted via a Hidden Markov Model. Designing efficient layout algorithms allowed for the rapid analysis and validation of important genomic alterations, replacing a previously tedious and disconnected analysis pipeline.}
+\end{entrylist}
+%------------------------------------------------
+\begin{entrylist}
+\entry
+{2009}
+{Centre for Microbial Disease and Immunity Research}
+{University of British Columbia}
+{\emph{Software Developer} \\
+Developed a data-base driven web-application PaIntDB, a biological database for the interactive query and exploration of protein-protein interaction data using Jakarta Struts and JavaScript with a LAMP stack back end. Performed multiple rounds of development and consultation with microbiologist and UBC and SFU stakeholders.}
+%------------------------------------------------
+\end{entrylist}
+\begin{entrylist}
+\entry
+{2008}
+{UBC Information Technology}
+{University of British Columbia}
+{\emph{Software Developer} \\
+Key developer of a web-based events calendar UBCEvents. Designed, styled, and implemented the Web UI through CSS, HTML, and JavaScript. Developed and modified the underlying open source Bedework XSLT code to parse and translate XML objects retrieved from an Oracle database into structured webpages. Designed statistical scripts using Perl and R to parse logs and summarize calendar use.}
+\end{entrylist}
+
+\section{Publications}
+
+For citations please see my Google Scholar page. \href{http://goo.gl/aYo3Wa}{http://goo.gl/aYo3Wa}
+
+\begin{itemize}
+\item
+  \textbf{Niels W. Hanson}, Kishori M. Konwar, Shang-Ju Wu, Steven J. Hallam. \emph{Introduction to the Analysis of Environmental Sequence Information Using MetaPathways}, Computational Methods for Next Generation Sequencing Data Analysis. Book Chapter. Wiley Series in Bioinformatics. In Press.
+\item
+  Dongjae Kim, Kishori M. Konwar, \textbf{Niels W. Hanson}, Steven J.
+  Hallam. \emph{Koonkie: An Automated Software Tool for Processing
+  Environmental Sequence Information using Hadoop}, ASE BigData 2014.
+  Harvard University, December 14-16,
+  2014.\\\href{http://www.ase360.org/handle/123456789/164}{http://www.ase360.org/handle/123456789/164}
+\item
+  \textbf{Niels W. Hanson}, Kishori M. Konwar, Alyse K. Hawley, Tomer
+  Altman, Peter D. Karp, Steven J. Hallam. \emph{Metabolic pathways for
+  the whole community}, BMC Genomics. July 2014.
+  \href{http://dx.doi.org/10.1186/1471-2164-15-619}{doi:10.1186/1471-2164-15-619}
+\item
+  \textbf{Niels W. Hanson}, Kishori M. Konwar, Shang-Ju Wu, Steven J.
+  Hallam. \emph{MetaPathways v2.0: A master-worker model for
+  environmental Pathway/Genome Database construction on grids and
+  clouds.} Proceedings of the 2014 IEEE Conference on Computational
+  Intelligence in Bioinformatics and Computational Biology (CIBCB 2014),
+  Honolulu, HI, USA, May 21-24, 2014.
+  \href{http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6845516}{doi:10.1109/CIBCB.2014.6845516}
+\item
+  Jody J. Wright, Keith Mewis, \textbf{Niels W. Hanson}, Kishori M.
+  Konwar, Kendra R. Maas, Steven J. Hallam. \emph{Genomic properties of
+  Marine Group A bacteria indicate a role in the marine sulfur cycle},
+  ISME Journal. September 2013.
+  \href{http://dx.doi.org/10.1038/ismej.2013.152}{doi:10.1038/ismej.2013.152}
+\item
+  Dongshan An, Sean Michael Caffrey, Jung Soh, Akhil Agrawal, Damon
+  Brown, Karen Budwill, Xiaoli Dong, Peter F. Dunfield, Julia Foght,
+  Lisa M. Gieg, Steven J. Hallam, \textbf{Niels W. Hanson}, Zhiguo He,
+  Thomas R. Jack, Jonathan Klassen, Kishori M. Konwar, Eugene Kuatsjah,
+  Carmen Li, Steve Larter, Verlyn Leopatra, Camilla L Nesbo, Thomas B.P.
+  Oldenburg, Antoine P. Pag\'{e}, Esther Ramos-Padron, Fauziah Rochman, Ali
+  Saidi-Mehrabad, Christoph W. Sensen, Payal Sipahimalani, Young C.
+  Song, Sandra Wilson, Gregor Wolbring, Ginny Wong, Gerritt Voordouw.
+   \emph{Metagenomics of Hydrocarbon Resource Environments Indicates Aerobic
+  Taxa and Genes to be Unexpectedly Common.} Environmental Science
+  \& Technology, September 2013
+  \href{http://dx.doi.org/10.1021/es4020184}{doi:10.1021/es4020184}
+\item
+  Brandon K. Swan, Ben Tupper, Alexander Sczyrba, Federico M. Lauro,
+  Manuel Martinez-Garcia, Jos\'{e} M. González, Haiwei Luo, Jody J. Wright,
+  Zachary C. Landry, \textbf{Niels W. Hanson}, Brian P. Thompson, Nicole
+  J. Poulton, Patrick Schwientek, Silvia G. Acinas, Stephen J
+  Giovannoni, Mary Ann Moran, Steven J. Hallam, Ricardo Cavicchioli,
+  Tanja Woyke, Ramunas Stepanauskas. \emph{Prevalent genome streamlining
+  and latitudinal divergence of planktonic bacteria in the surface
+  ocean}, Proceedings of the National Academy of Sciences. July 2013.
+  \href{http://dx.doi.org/10.1073/pnas.1304246110}{doi:10.1073/pnas.1304246110}
+\item
+  Kishori M. Konwar, \textbf{Niels W. Hanson}, Antoine P. Pag\'{e}, Steven
+  J. Hallam. \emph{MetaPathways: a modular pipeline for constructing
+  pathway/genome databases from environmental sequence information}, BMC
+  Bioinformatics. June 2013. \href{http://dx.doi.org/10.1186/1471-2105-14-202}{doi:10.1186/1471-2105-14-202}
+\item
+  W. Evan Durno, \textbf{Niels W. Hanson}, Kishori M. Konwar, Steven J.
+  Hallam. \emph{Expanding the boundaries of local similarity analysis}, BMC Bioinformatics.
+  February 2013. \href{http://dx.doi.org/10.1186/1471-2164-14-S1-S3}{doi:10.1186/1471-2164-14-S1-S3}
+\item
+  Kaston Leung, Hans Zahn, Timothy Leaver, Kishori M. Konwar,
+  \textbf{Niels W. Hanson}, Antoine P. Pag\'{e}, Chien-Chi Lo, Patrick S.
+  Chain, Steven J. Hallam, Carl L. Hansen. \emph{A programmable
+  droplet-based microfluidic device applied to multiparameter analysis
+  of single microbes and microbial communities}, Proceedings of the
+  National Academy of Sciences. May 2012.
+  \href{http://dx.doi.org/10.1073/pnas.1106752109}{doi:10.1073/pnas.1106752109}
+\end{itemize}
+
+\section{In-review}
+\begin{itemize}
+\item
+  Aria S. Hahn, \textbf{Niels W. Hanson}, Dongjae Kim, Kishori M. Konwar, Steven J. Hallam. \emph{Assembly independent functional annotation of short-read data using SOFA: Short-ORF Functional Annotation}, 11th International Symposium on Bioinformatics Research and Applications (ISBRA 2015). In review.
+\item
+  Kishori M. Konwar, \textbf{Niels W. Hanson}, Maya P. Bhatia, Dongjae Kim, Shang-Ju Wu, Aria S. Hahn, Connor Morgan-Lang, Hiu Kan Cheung, Steven J. Hallam. \emph{MetaPathways v2.5: Quantitative functional, taxonomic, and usability improvements}, Oxford Bioinformatics. In review.
+\end{itemize}
+%----------------------------------------------------------------------------------------
+%	COMMUNICATION SKILLS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Conferences \& Talks}
+\begin{itemize}
+\item
+  \textbf{Niels W. Hanson}, Kishori M. Konwar, Shang-Ju Wu, Steven J.
+  Hallam. \emph{MetaPathways v2.0: A master-worker model for
+  environmental Pathway/Genome Database construction on grids and
+  clouds.} IEEE Conference on Computational Intelligence in
+  Bioinformatics and Computational Biology (CIBCB 2014). Presentation.
+  Honolulu, HI, USA. May 21--24 2013.
+\item
+  Frances K. Russell, \textbf{Niels W. Hanson}, Kishori M. Konwar,
+  Steven J. Hallam. \emph{Hierarchical and High-Performance clustering
+  and annotation for large protein sequence databases.} 
+  Canadian High-Performance Computing Symposium (HPCS 2013). Poster. Ottawa,
+  ON, Canada. June 2--6 2013.
+\item
+  \textbf{Niels W. Hanson}, W. Evan Durno, Kishori M. Konwar, Steven J.
+  Hallam. \emph{IMPROV: An integrated MetaPRO-teomics viewer.} Eleventh Asia Pacific Bioinformatics Conference (APBC 2013). Poster. Vancouver, BC, Canada. 21-24 January 2013
+\item \textbf{Niels W. Hanson}, Jody J. Wright, Kishori M. Konwar, Steven J. Hallam. International Symposium on Microbial Ecology (ISME14). Poster. Copenhagen, Denmark. August 19--24 2012.
+\item
+  \textbf{Niels W. Hanson}, Antoine P. Pag\'{e}, Kishori M. Konwar, Charles
+  G. Howes, Steven J. Hallam. \emph{Metabolic Interaction Networks for
+  the Whole Community}. Tenth Asia Pacific Bioinformatics Conference (APBC 2012). Poster. Melbourne, Australia. January 17-19 2012.
+\end{itemize}
+
+\section{Journal \& Conference Reviewing}
+\begin{itemize}
+\item 11th International Symposium on Bioinformatics Research and Applications (ISBRA 2015)
+\item 2015 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2015)
+\end{itemize}
+
+\section{Teaching}
+
+\begin{entrylist}
+\entry
+{Aug. 2014}
+{Marine Biological Laboratory}
+{STAMPS Course}
+{\emph{Teaching Assistant} \\
+Teaching Assistant for the prestegious Strategies and Techniques for Analyzing Microbial Population Structure (STAMPS) course offered at the Marine Biological Laboratory (MBL) in Woods Hole, Massachusetts. Lectured and conducted tutorials to more than 60 post-docs, graduate students, and professors on the use of MetaPathways to process and annotate environmental sequence information, and downstream statistical analysis and visualization using the R, ggplot2, dplyr, and Pathway Tools software.}
+\end{entrylist}
+\begin{entrylist}
+\entry
+{2014}
+{University of British Columbia}
+{Problem Based Learning in Bioinformatics (BIOF 520)}
+{\emph{Teaching Assistant} \\
+Graduate teaching assistant of the Problem Based Learning in Bioinformatics (BIOF 520) graduate class. Responsibilities included assisting with lectures, designing and facilitating the Human Microbiome PBL learning module, grading assignments, and general class administration.}
+\end{entrylist}
+\begin{entrylist}
+\entry
+{2013--2014}
+{University of British Columbia}
+{Ecological Genomics (MICB 425)}
+{\emph{Teaching Assistant} \\
+Conducted 1--2 weeks of lectures annually in the Microbial
+  Ecological Genomics class (MICB 425). Topics included the
+  functional and taxonomic analysis of environmental sequence
+  information, with a focus on using the MetaPathways pipeline. Analytical topics
+  included down-stream statistical analysis including Hierarchical
+  Clustering, Principal Component Analysis (PCA), Non-metric
+  Multidimensional Scaling (NMDS), and general visualization in the R
+  statistical environment using ggplot2 and reproducible analysis using RMarkdown.}
+\end{entrylist}
+
+\section{Projects}
+
+\begin{itemize}
+\item De-Confusion Tables. An interactive R shiny app for exploring performance statistics of a binary classifier. Final project. Developing Data Products. John Hopkins University Coursera Class. July 2014. \href{http://goo.gl/Fl78Qh}{http://goo.gl/Fl78Qh}.
+\item D3.js visualizations:
+\begin{itemize}
+	\item World Map: World map displaying metagenomic sequencing data from IMG/M. \href{http://goo.gl/WVjdAv}{http://goo.gl/WVjdAv}
+	\item Sunburst Plot: Radial tree-map showing hierarchal classification of global metagenomes. \href{http://goo.gl/3LlXIq}{http://goo.gl/3LlXIq}
+	\item Bubble Tree: Modified dendrogram to show taxonomy across multiple samples. \href{http://goo.gl/2SBVsp}{http://goo.gl/2SBVsp}
+	\item Bubble Plot: A two-variable sortable bubble plot. \href{http://goo.gl/Jfslu1}{http://goo.gl/Jfslu1}
+	\item Heatmap: Heatmap with calculated marginal distributions. \href{http://goo.gl/3dIurm}{http://goo.gl/3dIurm}
+\end{itemize}
+
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	INTERESTS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Interests}
+
+\textbf{Professional:} Data Analysis, Information Visualization, Machine Learning, High-performance Computing, Web-app Creation, Software Design  \textbf{Personal:} Running, Tennis, Badminton, Piano, Photography, Cooking 
+
+\section{References}
+
+Provided upon request.
+
+\end{document}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.5.25)  14 MAR 2015 16:57
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.5.25)  6 APR 2015 14:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1260,17 +1260,17 @@ LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 4.99992pt on input line 55.
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--64
+Underfull \hbox (badness 10000) in paragraph at lines 55--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--76
+Underfull \hbox (badness 10000) in paragraph at lines 73--82
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--127
+Underfull \hbox (badness 10000) in paragraph at lines 87--133
 
  []
 
@@ -1280,52 +1280,48 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 )
 [1
 
-]
-Invalid UTF-8 byte or sequence at line 175 replaced by U+FFFD.
-Missing character: There is no � in font Helvetica Neue Light/AAT:mapping=tex-t
-ext;mapping=tex-text;color=4D4D4DFF ;!
-
-Overfull \hbox (25.38943pt too wide) in paragraph at lines 189--193
+] [2]
+Overfull \hbox (25.38943pt too wide) in paragraph at lines 195--199
 \EU1/HelveticaNeueLight(0)/m/it/10 boundaries of local similarity analysis\EU1/
 HelveticaNeueLight(0)/m/n/10 , BMC Bioinformatics. February 2013. []doi:10.1186
 /1471-
  []
 
-[2]
-Overfull \hbox (2.7752pt too wide) in paragraph at lines 241--242
+[3]
+Overfull \hbox (2.7752pt too wide) in paragraph at lines 249--250
 []\EU1/HelveticaNeueLight(0)/m/n/10 11th International Symposium on Bioinformat
 ics Research and Applications (ISBRA 2015) 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--278
+Underfull \hbox (badness 10000) in paragraph at lines 255--286
 
  []
 
-[3]
-Overfull \hbox (21.08723pt too wide) in paragraph at lines 285--286
+
+Overfull \hbox (21.08723pt too wide) in paragraph at lines 293--294
 []\EU1/HelveticaNeueLight(0)/m/n/10 World Map: World map displaying metagenomic
  sequencing data. []http://goo.gl/WVjdAv[] 
  []
 
 
-Overfull \hbox (21.16614pt too wide) in paragraph at lines 286--287
+Overfull \hbox (21.16614pt too wide) in paragraph at lines 294--295
 []\EU1/HelveticaNeueLight(0)/m/n/10 Sunburst Plot: Radial tree-map showing hier
 archal classification of global metagenomes.
  []
 
 
-Overfull \hbox (38.79391pt too wide) in paragraph at lines 289--290
+Overfull \hbox (38.79391pt too wide) in paragraph at lines 297--298
 []\EU1/HelveticaNeueLight(0)/m/n/10 Heatmap: Two-variable heatmap with calculat
 ed marginal distributions. []http://goo.gl/3dIurm[] 
  []
 
-[4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 306.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 306.
+[4] [5]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 314.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 314.
  (./hanson_cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 306.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 306.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 314.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 314.
 Package logreq Info: Writing requests to 'hanson_cv.run.xml'.
 \openout1 = `hanson_cv.run.xml'.
 
@@ -1333,10 +1329,10 @@ Package logreq Info: Writing requests to 'hanson_cv.run.xml'.
 Here is how much of TeX's memory you used:
  39810 strings out of 493734
  747792 string characters out of 6146348
- 1165045 words of memory out of 5000000
+ 1163045 words of memory out of 5000000
  42672 multiletter control sequences out of 15000+600000
  5342 words of font info for 61 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  73i,9n,61p,10429b,660s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on hanson_cv.pdf (4 pages).
+Output written on hanson_cv.pdf (5 pages).

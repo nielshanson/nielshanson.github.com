@@ -27,7 +27,7 @@ This document is available as a [downloadable pdf](docs/hanson_cv.pdf) or as a m
 
 * 2011--Now - Bioinformatics Ph.D. Candidate - Steven J. Hallam Laboratory
 	
-	Primary research focuses on the development of MetaPathways, a pipeline developed in Python and C++ for the Big Data processing and analysis challenges of next-generation environmental sequence information. The software accommodates a wide range of experimental conditions, integrates with HPC resources via a master-worker model, and is controlled locally via user-friendly GUI. Moreover, I am involved in all areas of lab data analysis and research, and have utilized a combination of Python and R to develop bespoke solutions to a variety analytical challenges.
+	Primary research focuses on the development of MetaPathways, a pipeline developed in Python and C++ for the Big Data processing and analysis challenges of next-generation environmental sequence information. The software accommodates a wide range of experimental conditions, integrates with HPC resources via a master-worker model, and is controlled locally via user-friendly GUI. Moreover, I am involved in all areas of lab data analysis and research, and have utilized a combination of Python and R to develop bespoke solutions to a variety of analytical challenges.
 
 * 2011 - Software Developer - UBC Microbiology and Immunology
 

@@ -51,6 +51,8 @@ For an up-to-date list see my [google scholar page](goo.gl/aYo3Wa).
 
 * **Niels W. Hanson**, Kishori M. Konwar, Shang-Ju Wu, Steven J. Hallam. *Introduction to the Analysis of Environmental Sequence Information Using MetaPathways*, Computational Methods for Next Generation Sequencing Data Analysis. Book Chapter. Wiley Series in Bioinformatics. In Press.
 
+* Christopher E. Lawson, Blake J. Strachan, **Niels W. Hanson**, Aria S. Hahn, Eric R. Hall, Barry Rabinowitz, Donald S. Mavinic, William D. Ramey, Steven J. Hallam *Rare taxa have potential to make metabolic contributions in enhanced biological phosphorus removal ecosystems*, Environmental Microbiology. April 2015. [doi:10.1111/1462-2920.12875](http://dx.doi.org/10.1111/1462-2920.12875)
+
 * Dongjae Kim, Kishori M. Konwar, **Niels W. Hanson**, Steven J. Hallam. *Koonkie: An Automated Software Tool for Processing Environmental Sequence Information using Hadoop*, ASE BigData 2014. Harvard University, December 14-16, 2014.[http://www.ase360.org/handle/123456789/164](http://www.ase360.org/handle/123456789/164)
 
 * **Niels W. Hanson**, Kishori M. Konwar,  Alyse K. Hawley, Tomer Altman, Peter D. Karp, Steven J. Hallam. *Metabolic pathways for the whole community*, BMC Genomics. July 2014. [doi:10.1186/1471-2164-15-619](http://dx.doi.org/10.1186/1471-2164-15-619)

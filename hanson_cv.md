@@ -51,7 +51,11 @@ For an up-to-date list see my [google scholar page](goo.gl/aYo3Wa).
 
 * **Niels W. Hanson**, Kishori M. Konwar, Shang-Ju Wu, Steven J. Hallam. *Introduction to the Analysis of Environmental Sequence Information Using MetaPathways*, Computational Methods for Next Generation Sequencing Data Analysis. Book Chapter. Wiley Series in Bioinformatics. In Press.
 
-* Kishori M. Konwar, **Niels W. Hanson**, Maya P. Bhatia, Dongjae Kim, Shang-Ju Wu, Aria S. Hahn, Connor Morgan-Lang, Hiu Kan Cheung, Steven J. Hallam. *MetaPathways v2.5: Quantitative functional, taxonomic, and usability improvements*, Bioinformatics. In press.
+* Dongjae Kim, Aria S. Hahn, Shang-Ju Wu, **Niels W. Hanson**, Kishori M. Konwar, Steven J. Hallam. FragGeneScan+: high-throughput short-read gene prediction, Proceedings of the 2015 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2015), Niagara Falls, Canada, August 12-15, 2015. In press.
+
+* Aria S. Hahn, **Niels W. Hanson**, Dongjae Kim, Kishori M. Konwar, Steven J. Hallam. *Assembly independent functional annotation of short-read data using SOFA: Short-ORF Functional Annotation*, Proceedings of the 2015 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2015), Niagara Falls, Canada, August 12-15, 2015. In press.
+
+* Kishori M. Konwar, **Niels W. Hanson**, Maya P. Bhatia, Dongjae Kim, Shang-Ju Wu, Aria S. Hahn, Connor Morgan-Lang, Hiu Kan Cheung, Steven J. Hallam. *MetaPathways v2.5: Quantitative functional, taxonomic, and usability improvements*, Bioinformatics. June 2015. [doi:10.1093/bioinformatics/btv361](http://dx.doi.org/10.1093/bioinformatics/btv361)
 
 * Christopher E. Lawson, Blake J. Strachan, **Niels W. Hanson**, Aria S. Hahn, Eric R. Hall, Barry Rabinowitz, Donald S. Mavinic, William D. Ramey, Steven J. Hallam. *Rare taxa have potential to make metabolic contributions in enhanced biological phosphorus removal ecosystems*, Environmental Microbiology. April 2015. [doi:10.1111/1462-2920.12875](http://dx.doi.org/10.1111/1462-2920.12875)
 
@@ -75,13 +79,11 @@ For an up-to-date list see my [google scholar page](goo.gl/aYo3Wa).
 
 ## In-review
 
-* Dongjae Kim, Aria S. Hahn, Shang-Ju Wu, Niels W. Hanson, Kishori M. Konwar, Steven J. Hallam. FragGeneScan+: high-throughput short-read gene prediction, BMC Bioinformatics. In review.
-
-* Aria S. Hahn, **Niels W. Hanson**, Dongjae Kim, Kishori M. Konwar, Steven J. Hallam. *Assembly independent functional annotation of short-read data using SOFA: Short-ORF Functional Annotation*, 11th International Symposium on Bioinformatics Research and Applications (ISBRA 2015). In review.
+No papers currently in review.
 
 ## Conferences & Talks
 
-* **Niels W. Hanson**, Kishori M. Konwar, Shang-Ju Wu, Steven J. Hallam. *MetaPathways v2.0: A master-worker model for environmental Pathway/Genome Database construction on grids and clouds.* IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2014). Presentation. Honolulu, HI, USA.   May 21–24 2013.
+* **Niels W. Hanson**, Kishori M. Konwar, Shang-Ju Wu, Steven J. Hallam. *MetaPathways v2.0: A master-worker model for environmental Pathway/Genome Database construction on grids and clouds.* IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2014). Presentation. Honolulu, HI, USA. May 21–24 2013.
 
 * Frances K. Russell, **Niels W. Hanson**, Kishori M. Konwar, Steven J. Hallam. *Hierarchical and High-Performance clustering and annotation for large protein sequence databases.* Poster. Ottawa, ON, Canada. June 2–6 2013.
 
@@ -91,6 +93,8 @@ For an up-to-date list see my [google scholar page](goo.gl/aYo3Wa).
 
 ## Journal & Conference Reviewing
 
+* Donato Teutonico. *ggplot2 Essentials.* PACKT Publishing. June 2015. Technical Reviewer.
+* Tamara Munzner. *Visualization Analysis and Design.* A.K. Peters/CRC Press. December 2014. Editor.
 * 2015 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2015)
 * 11th International Symposium on Bioinformatics Research and Applications (ISBRA 2015)
 * 2014 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2014)

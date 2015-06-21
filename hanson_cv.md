@@ -15,7 +15,7 @@ This document is available as a [downloadable pdf](docs/hanson_cv.pdf) or as a m
 
 ## Education
 
-* 2011-2015 (Expected) - Ph.D. Bioinformatics - University of British Columbia
+* 2011-2015 - Ph.D. Bioinformatics - University of British Columbia
 * 2006-2011 - B.Sc. Computer Science (Statistics Minor) - University of British Columbia
 
 ## Awards
@@ -51,7 +51,7 @@ For an up-to-date list see my [google scholar page](goo.gl/aYo3Wa).
 
 * **Niels W. Hanson**, Kishori M. Konwar, Shang-Ju Wu, Steven J. Hallam. *Introduction to the Analysis of Environmental Sequence Information Using MetaPathways*, Computational Methods for Next Generation Sequencing Data Analysis. Book Chapter. Wiley Series in Bioinformatics. In Press.
 
-* Dongjae Kim, Aria S. Hahn, Shang-Ju Wu, **Niels W. Hanson**, Kishori M. Konwar, Steven J. Hallam. FragGeneScan+: high-throughput short-read gene prediction, Proceedings of the 2015 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2015), Niagara Falls, Canada, August 12-15, 2015. In press.
+* Dongjae Kim, Aria S. Hahn, Shang-Ju Wu, **Niels W. Hanson**, Kishori M. Konwar, Steven J. Hallam. *FragGeneScan+: high-throughput short-read gene prediction*, Proceedings of the 2015 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2015), Niagara Falls, Canada, August 12-15, 2015. In press.
 
 * Aria S. Hahn, **Niels W. Hanson**, Dongjae Kim, Kishori M. Konwar, Steven J. Hallam. *Assembly independent functional annotation of short-read data using SOFA: Short-ORF Functional Annotation*, Proceedings of the 2015 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2015), Niagara Falls, Canada, August 12-15, 2015. In press.
 
@@ -94,9 +94,9 @@ No papers currently in review.
 ## Journal & Conference Reviewing
 
 * Donato Teutonico. *ggplot2 Essentials.* PACKT Publishing. June 2015. Technical Reviewer.
-* Tamara Munzner. *Visualization Analysis and Design.* A.K. Peters/CRC Press. December 2014. Editor.
 * 2015 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2015)
 * 11th International Symposium on Bioinformatics Research and Applications (ISBRA 2015)
+* Tamara Munzner. *Visualization Analysis and Design.* A.K. Peters/CRC Press. December 2014. Editor.
 * 2014 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2014)
 
 ## Teaching

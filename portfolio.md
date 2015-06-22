@@ -52,7 +52,7 @@ I've been involved in a number of analysis of unstructured datasets from beginni
 <div class="col-sm-4">
 <h3>Read Mapping</h3>
 <img src="img/rpkm_logo.png" class="img-rounded" alt="Read Mapping" style="width: 140px; height: 140px;">
-<p>An improvement in <a href="https://github.com/hallamlab/metapathways2">MetaPathways v2.5</a> is the ability to map reads to assembled sequences to estimate abundance. In this analysis we evaluate the variance of read-mapping against simple gene counting. Fitting a linear model mapped vs gene counts in metagenomic samples from the <a href="http://www.pac.dfo-mpo.gc.ca/science/oceans/data-donnees/line-p/index-eng.html">Pacific Ocean Line-P transact</a> showed the two were linearly related but with some variance that is being corrected for in the mapped case.</p>
+<p>An improvement in <a href="https://github.com/hallamlab/metapathways2">MetaPathways v2.5</a> is the ability to map reads to assembled sequences to estimate abundance. In this analysis we evaluate the variance of read-mapping against simple gene counting. Fitting a linear model mapped vs gene counts in metagenomic samples from the <a href="http://www.pac.dfo-mpo.gc.ca/science/oceans/data-donnees/line-p/index-eng.html">Pacific Ocean Line-P transact</a> showed variance is being corrected for in the mapped case. Published in <a href="http://dx.doi.org/10.1093/bioinformatics/btv361">Oxford Bioinformatics</a></p>
 <p><a class="btn btn-default" href="https://github.com/hallamlab/mp_2_5_supplement" role="button">View details »</a></p>
 </div>
 </div>

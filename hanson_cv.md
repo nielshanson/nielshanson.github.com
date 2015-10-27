@@ -126,11 +126,11 @@ No papers currently in review.
 * **De-Confusion Tables**. An interactive R shiny app for exploring performance statistics of a binary classifier. Final project. Developing Data Products. John Hopkins University Coursera Class. July 2014. [http://goo.gl/Fl78Qh](http://goo.gl/Fl78Qh)
 
 * **D3.js visualizations**:
-    * *World Map*: World map displaying metagenomic sequencing data. http://goo.gl/WVjdAv
-    * *Sunburst Plot*: Radial tree-map showing hierarchal classification of global metagenomes. http://goo.gl/3LlXIq
-    * *Bubble Tree*: Modified dendrogram to show taxonomy across multiple samples. http://goo.gl/2SBVsp
-    * *Bubble Plot*: A two-variable sortable bubble plot. http://goo.gl/Jfslu1
-    * *Heatmap*: Heatmap: Two-variable heatmap with calculated marginal distributions. http://goo.gl/3dIurm
+    * <p> *World Map*: World map displaying metagenomic sequencing data. http://goo.gl/WVjdAv</p>
+    * <p>*Sunburst Plot*: Radial tree-map showing hierarchal classification of global metagenomes. http://goo.gl/3LlXIq </p>
+    * <p>*Bubble Tree*: Modified dendrogram to show taxonomy across multiple samples. http://goo.gl/2SBVsp</p>
+    * <p>*Bubble Plot*: A two-variable sortable bubble plot. http://goo.gl/Jfslu1</p>
+    * <p>*Heatmap*: Heatmap: Two-variable heatmap with calculated marginal distributions. http://goo.gl/3dIurm</p>
 
 * **FastLCA R-Package**. An implementation the FastLCA method for local correlations in R. Utilizes the optimized C code and accepts Data Frames from R. Parallelized using Open-MP. [http://goo.gl/cPb1uP](http://goo.gl/cPb1uP).
 

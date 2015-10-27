@@ -51,7 +51,7 @@ This document is available as a [downloadable pdf](docs/hanson_cv.pdf) or as a m
 
 ## Publications
 
-For an up-to-date list see my [google scholar page](goo.gl/aYo3Wa).
+For an up-to-date list see my [google scholar page](http://goo.gl/aYo3Wa).
 
 * **Niels W. Hanson**, Kishori M. Konwar, Shang-Ju Wu, Steven J. Hallam. *Introduction to the Analysis of Environmental Sequence Information Using MetaPathways*, Computational Methods for Next Generation Sequencing Data Analysis. Book Chapter. Wiley Series in Bioinformatics. In Press.
 

@@ -10,23 +10,27 @@ This document is available as a [downloadable pdf](docs/hanson_cv.pdf) or as a m
 ## Technical Skills
 
 * **Basic** - MPI, OpenCL, CUDA
+
 * **Intermediate** - HTML, CSS, JavaScript, PHP, Perl, d3.js, Git, MATLAB, LaTeX, Hadoop, GLPK
+
 * **Advanced** - Java, C++, Python, R
 
 ## Education
 
 * 2011-2015 - Ph.D. Bioinformatics - University of British Columbia
+
 * 2006-2011 - B.Sc. Computer Science (Statistics Minor) - University of British Columbia
 
 ## Awards
+
 * 2012 - Four Year Doctoral Fellowship (4YF) - University of British Columbia
-    
+
     Awarded to incoming doctoral graduate students awarded on academic excellence, upon the recommendation of the graduate program.
 
 ## Experience
 
 * 2011--Now - Bioinformatics Ph.D. Candidate - Steven J. Hallam Laboratory
-	
+
 	Primary research focuses on the development of MetaPathways, a pipeline developed in Python and C++ for the Big Data processing and analysis challenges of next-generation environmental sequence information. The software accommodates a wide range of experimental conditions, integrates with HPC resources via a master-worker model, and is controlled locally via user-friendly GUI. Moreover, I am involved in all areas of lab data analysis and research, and have utilized a combination of Python and R to develop bespoke solutions to a variety of analytical challenges.
 
 * 2011 - Software Developer - UBC Microbiology and Immunology
@@ -34,7 +38,7 @@ This document is available as a [downloadable pdf](docs/hanson_cv.pdf) or as a m
 	Developer of RameyDB, a database-driven web-application for the cataloging of bacterial strains and plasmids at the University of British Columbia. Utilized the LAMP stack, JavaScript, and PHP to create an easy-to-use web interface. Implemented a number of features to improve usability including an advanced search form, user search histories, and intelligent autocomplete to ease data entry.
 
 * 2010 - Bioinformatics Intern - Evan E. Eichler Laboratory, University of Washington
-	
+
 	Summer research position involved the development of a database-driven hu- man genome visualization software for analysis of autistic genomes. Designed and implemented MySQL back-end database and a Java Swing-based GUI and visualization environment for genetic variants predicted via a Hidden Markov Model. Designing efficient layout algorithms allowed for the rapid analysis and validation of important genomic alterations, replacing a previously tedious and disconnected analysis pipeline.
 
 * 2009 - Software Developer - Centre for Microbial Disease and Immunity Research
@@ -62,7 +66,7 @@ For an up-to-date list see my [google scholar page](goo.gl/aYo3Wa).
 * Dongjae Kim, Kishori M. Konwar, **Niels W. Hanson**, Steven J. Hallam. *Koonkie: An Automated Software Tool for Processing Environmental Sequence Information using Hadoop*, ASE BigData 2014. Harvard University, December 14-16, 2014.[http://www.ase360.org/handle/123456789/164](http://www.ase360.org/handle/123456789/164)
 
 * **Niels W. Hanson**, Kishori M. Konwar,  Alyse K. Hawley, Tomer Altman, Peter D. Karp, Steven J. Hallam. *Metabolic pathways for the whole community*, BMC Genomics. July 2014. [doi:10.1186/1471-2164-15-619](http://dx.doi.org/10.1186/1471-2164-15-619)
-		  
+
 * **Niels W. Hanson**, Kishori M. Konwar, Shang-Ju Wu, Steven J. Hallam. *MetaPathways v2.0: A master-worker model for environmental Pathway/Genome Database construction on grids and clouds.* Proceedings of the 2014 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2014), Honolulu, HI, USA, May 21-24, 2014. [doi:10.1109/CIBCB.2014.6845516](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6845516)
 
 * Jody J. Wright, Keith Mewis, **Niels W. Hanson**, Kishori M. Konwar, Kendra R. Maas, Steven J. Hallam. *Genomic properties of Marine Group A bacteria indicate a role in the marine sulfur cycle*, ISME Journal. September 2013. [doi:10.1038/ismej.2013.152](http://dx.doi.org/10.1038/ismej.2013.152)
@@ -94,44 +98,48 @@ No papers currently in review.
 ## Journal & Conference Reviewing
 
 * Donato Teutonico. *ggplot2 Essentials.* PACKT Publishing. June 2015. Technical Reviewer.
+
 * 2015 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2015)
+
 * 11th International Symposium on Bioinformatics Research and Applications (ISBRA 2015)
+
 * Tamara Munzner. *Visualization Analysis and Design.* A.K. Peters/CRC Press. December 2014. Editor.
+
 * 2014 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2014)
 
 ## Teaching
 
 * Summer 2014 - Teaching Assistant - Marine Biological Laboratory (MBL)
-	
+
 	Teaching Assistant for the prestegious Strategies and Techniques for Analyzing Microbial Population Structure (STAMPS) course offered at the Marine Biological Laboratory (MBL) in Woods Hole, Massachusetts. Lectured and conducted tutorials to more than 60 post-docs, graduate students, and professors on the use of MetaPathways to process and annotate environmental sequence information, and downstream statistical analysis and visualization using the R, ggplot2, dplyr, and Pathway Tools software.
 
 * Spring 2014 - Teaching Assistant - University of British Columbia
-	
+
 	Graduate teaching assistant of the Problem Based Learning in Bioinformatics (BIOF 520) graduate class. Responsibilities included assisting with lectures, designing and facilitating the Human Microbiome PBL learning module, grading assignments, and general class administration.
 
-* 2013-2015 - Teaching Assistant - University of British Columbia 
-	
+* 2013-2015 - Teaching Assistant - University of British Columbia
+
 	Conducted 1–2 weeks of lectures annually in the Microbial Ecological Genomics class (MICB 425). Topics included the functional and taxonomic analysis of en- vironmental sequence information, with a focus on using the MetaPathways pipeline. Analytical topics included down-stream statistical analysis including Hierarchical Clustering, Principal Component Analysis (PCA), Non-metric Multi-dimensional Scaling (NMDS), and general visualization in the R statistical envi- ronment using ggplot2 and reproducible analysis using RMarkdown.
 
 ## Projects
 
 * **De-Confusion Tables**. An interactive R shiny app for exploring performance statistics of a binary classifier. Final project. Developing Data Products. John Hopkins University Coursera Class. July 2014. [http://goo.gl/Fl78Qh](http://goo.gl/Fl78Qh)
+
 * **D3.js visualizations**:
     * *World Map*: World map displaying metagenomic sequencing data. http://goo.gl/WVjdAv
     * *Sunburst Plot*: Radial tree-map showing hierarchal classification of global metagenomes. http://goo.gl/3LlXIq
     * *Bubble Tree*: Modified dendrogram to show taxonomy across multiple samples. http://goo.gl/2SBVsp
     * *Bubble Plot*: A two-variable sortable bubble plot. http://goo.gl/Jfslu1
     * *Heatmap*: Heatmap: Two-variable heatmap with calculated marginal distributions. http://goo.gl/3dIurm
+
 * **FastLCA R-Package**. An implementation the FastLCA method for local correlations in R. Utilizes the optimized C code and accepts Data Frames from R. Parallelized using Open-MP. [http://goo.gl/cPb1uP](http://goo.gl/cPb1uP).
 
 ## Interests
 
-**Professional:** Data Analysis, Information Visualization, Machine Learning, Statistics, High-performance Computing, Web-app Creation, Software Design 
+**Professional:** Data Analysis, Information Visualization, Machine Learning, Statistics, High-performance Computing, Web-app Creation, Software Design
 
 **Personal:** Running, Tennis, Badminton, Piano, Photography, Cooking
 
 ## References
 
 Provided upon request.
-
-

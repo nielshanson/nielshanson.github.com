@@ -55,9 +55,9 @@ For an up-to-date list see my [google scholar page](http://goo.gl/aYo3Wa).
 
 * **Niels W. Hanson**, Kishori M. Konwar, Shang-Ju Wu, Steven J. Hallam. *Introduction to the Analysis of Environmental Sequence Information Using MetaPathways*, Computational Methods for Next Generation Sequencing Data Analysis. Book Chapter. Wiley Series in Bioinformatics. In Press.
 
-* Dongjae Kim, Aria S. Hahn, Shang-Ju Wu, **Niels W. Hanson**, Kishori M. Konwar, Steven J. Hallam. *FragGeneScan+: high-throughput short-read gene prediction*, Proceedings of the 2015 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2015), Niagara Falls, Canada, August 12-15, 2015. In press.
+* Dongjae Kim, Aria S. Hahn, Shang-Ju Wu, **Niels W. Hanson**, Kishori M. Konwar, Steven J. Hallam. *FragGeneScan+: high-throughput short-read gene prediction*, Proceedings of the 2015 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2015), Niagara Falls, Canada, August 12-15, 2015. [doi:10.1109/cibcb.2015.7300341](http://dx.doi.org/10.1109/cibcb.2015.7300341).
 
-* Aria S. Hahn, **Niels W. Hanson**, Dongjae Kim, Kishori M. Konwar, Steven J. Hallam. *Assembly independent functional annotation of short-read data using SOFA: Short-ORF Functional Annotation*, Proceedings of the 2015 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2015), Niagara Falls, Canada, August 12-15, 2015. In press.
+* Aria S. Hahn, **Niels W. Hanson**, Dongjae Kim, Kishori M. Konwar, Steven J. Hallam. *Assembly independent functional annotation of short-read data using SOFA: Short-ORF Functional Annotation*, Proceedings of the 2015 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2015), Niagara Falls, Canada, August 12-15, 2015. [doi:10.1109/CIBCB.2015.7300324](http://dx.doi.org/10.1109/CIBCB.2015.7300324).
 
 * Kishori M. Konwar, **Niels W. Hanson**, Maya P. Bhatia, Dongjae Kim, Shang-Ju Wu, Aria S. Hahn, Connor Morgan-Lang, Hiu Kan Cheung, Steven J. Hallam. *MetaPathways v2.5: Quantitative functional, taxonomic, and usability improvements*, Bioinformatics. June 2015. [doi:10.1093/bioinformatics/btv361](http://dx.doi.org/10.1093/bioinformatics/btv361)
 

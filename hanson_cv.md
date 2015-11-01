@@ -61,6 +61,8 @@ For an up-to-date list see my [google scholar page](http://goo.gl/aYo3Wa).
 
 * Kishori M. Konwar, **Niels W. Hanson**, Maya P. Bhatia, Dongjae Kim, Shang-Ju Wu, Aria S. Hahn, Connor Morgan-Lang, Hiu Kan Cheung, Steven J. Hallam. *MetaPathways v2.5: Quantitative functional, taxonomic, and usability improvements*, Bioinformatics. June 2015. [doi:10.1093/bioinformatics/btv361](http://dx.doi.org/10.1093/bioinformatics/btv361)
 
+* **Niels W. Hanson**. MetaPathways: a modular pipeline for the analysis of environmental sequence information. Ph.D. Dissertation, University of British Columbia. May 2015. [http://hdl.handle.net/2429/52845](http://hdl.handle.net/2429/52845)
+
 * Christopher E. Lawson, Blake J. Strachan, **Niels W. Hanson**, Aria S. Hahn, Eric R. Hall, Barry Rabinowitz, Donald S. Mavinic, William D. Ramey, Steven J. Hallam. *Rare taxa have potential to make metabolic contributions in enhanced biological phosphorus removal ecosystems*, Environmental Microbiology. April 2015. [doi:10.1111/1462-2920.12875](http://dx.doi.org/10.1111/1462-2920.12875)
 
 * Dongjae Kim, Kishori M. Konwar, **Niels W. Hanson**, Steven J. Hallam. *Koonkie: An Automated Software Tool for Processing Environmental Sequence Information using Hadoop*, ASE BigData 2014. Harvard University, December 14-16, 2014.[http://www.ase360.org/handle/123456789/164](http://www.ase360.org/handle/123456789/164)

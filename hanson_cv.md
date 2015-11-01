@@ -29,7 +29,7 @@ This document is available as a [downloadable pdf](docs/hanson_cv.pdf) or as a m
 
 ## Experience
 
-* 2011--Now - Bioinformatics Ph.D. Candidate - Steven J. Hallam Laboratory
+* 2011 - Now - Bioinformatics Ph.D. Candidate - Steven J. Hallam Laboratory
 
 	Primary research focuses on the development of MetaPathways, a pipeline developed in Python and C++ for the Big Data processing and analysis challenges of next-generation environmental sequence information. The software accommodates a wide range of experimental conditions, integrates with HPC resources via a master-worker model, and is controlled locally via user-friendly GUI. Moreover, I am involved in all areas of lab data analysis and research, and have utilized a combination of Python and R to develop bespoke solutions to a variety of analytical challenges.
 
@@ -83,7 +83,9 @@ For an up-to-date list see my [google scholar page](http://goo.gl/aYo3Wa).
 
 ## In-review
 
-No papers currently in review.
+* Dongjae Kim, Aria S. Hahn. **Niels W. Hanson**, Kishori M. Konwar, and Steven J. Hallam. *LAST+: Optimized threading for fast annotation*, Oxford Bioinformatics. (In Review)
+
+* **Niels W. Hanson**, Kishori M. Konwar, Steven J. Hallam. *LCA\*: an entropy-based measure for taxonomic assignment within assembled metagenomes*, Oxford Bioinformatics. (In Review)
 
 ## Conferences & Talks
 
@@ -117,7 +119,7 @@ No papers currently in review.
 
 	Graduate teaching assistant of the Problem Based Learning in Bioinformatics (BIOF 520) graduate class. Responsibilities included assisting with lectures, designing and facilitating the Human Microbiome PBL learning module, grading assignments, and general class administration.
 
-* 2013-2015 - Teaching Assistant - University of British Columbia
+* 2013 - 2015 - Teaching Assistant - University of British Columbia
 
 	Conducted 1–2 weeks of lectures annually in the Microbial Ecological Genomics class (MICB 425). Topics included the functional and taxonomic analysis of en- vironmental sequence information, with a focus on using the MetaPathways pipeline. Analytical topics included down-stream statistical analysis including Hierarchical Clustering, Principal Component Analysis (PCA), Non-metric Multi-dimensional Scaling (NMDS), and general visualization in the R statistical envi- ronment using ggplot2 and reproducible analysis using RMarkdown.
 

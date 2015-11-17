@@ -1,0 +1,60 @@
+Niels Hanson
+4557 West 14th Ave.
+Vancouver BC V6R 2Y5
++1 (778) 385-4465
+nielshanson@gmail.com
+www.nielshanson.com
+GitHub: nielshanson
+
+Profile
+* Recent Ph.D. graduate looking for a career in Quantitative Analytics, Data Science, or Software Development
+
+Education
+Ph.D. Bioinformatics University of British Columbia 2011–2015
+B.Sc. Computer Science (Minor Statistics) University of British Columbia 2006–2011
+
+Coursework
+* Machine Learning, Data Visualization, Numerical Methods, Algorithms, and Software Development
+Technical Skills
+* Proficient in Java, C++, R, Python, JavaScript, PHP, Go, and SQL
+* Object-oriented software design
+* Large-scale data processing using Hadoop, Apache Spark, and AWS
+* HPC programming with Intel Phi-cards
+* Data Analysis with ggplot2, dplyr, RMarkdown, NumPy, pandas, scikit-learn, and D3.js
+
+Projects
+* D3.js Visualizations. Variety of visualizations in the D3.js framework for analysis of genomic data (http://goo.gl/fLntUc)
+* R-Package: fastLSA. Implementation of the fastLSA correlation method in C and Open-MP (http://goo.gl/5QPM82)
+* De-Confusion Tables. An interactive R shiny app. Final project. Developing Data Products. John Hopkins University Coursera Class. July 2014 (http://goo.gl/Fl78Qh)
+
+Selected Publications
+* Kim, Konwar, Hanson, et al. Koonkie: An Automated Software Tool for Processing Environmental Sequence Information using Hadoop. ASE BigData. Harvard (2014)
+* Hanson et al. Metabolic pathways for the whole community. BMC Genomics (2014)
+* Hanson, et al. MetaPathways v2.0: A master-worker model for environmental PGDB construction on grids and clouds. IEEE CIBCB, Hawaii (2014)
+* Konwar, Hanson, et al. MetaPathways: a modular pipeline for constructing pathway/genome databases from environmental sequence information. BMC Bioinf. (2013)
+
+Experience 
+Bioinformatics Ph.D. Candidate, Hallam Lab, University of British Columbia 2011–2015 
+* Developed MetaPathways, a Python and C++ pipeline for biological sequence data
+* Implemented a Master-worker distributed algorithm to manage a large collection of HPC worker grids
+* Enabled sequence-homology search in Hadoop through critical improvements to the YARN scheduler
+* Analytically involved in all areas of research; author on 10+ peer-reviewed publications
+Teaching Assistant, Marine Biological Laboratory, Woods Hole, MA 2014
+* Conducted tutorials on biological sequence analysis for 60+ post-docs, graduate students, and professors
+* Statistical topics: Predictive Models, SVMs, Hierarchical Clustering, Dimensionality Reduction
+* General data-literacy topics: data preparation, analysis, visualization, and report generation using R, ggplot2, dplyr, and RMarkdown
+
+Software Developer Microbiology and Immunology, UBC, 2011
+* Developed a LAMP stack and JavaScript based web application cataloging thousands of bacterial strains
+* Ensured accurate requirements via user observation and interviews 
+* Enhanced the user experience by implementing advanced Boolean search, user histories, and predictive search autocomplete
+
+Bioinformatics Intern, Eichler Lab, University of Washington, 2010
+* Developed a genome visualization and analysis software platform for autistic human genomes 
+* MySQL back-end database and object-oriented Java MVC-based GUI enabled the visualization of millions of genetic variants predicted via a Hidden Markov Model
+* Designed efficient visualization layout algorithms allowing the rapid display and query of genomic alterations in less than a second
+
+Interests
+* Data Analysis, Information Visualization, Machine Learning, Statistics, Software Design
+* Photography, Cooking, Badminton, Triathlons
+

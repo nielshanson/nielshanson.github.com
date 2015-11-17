@@ -85,6 +85,8 @@ For an up-to-date list see my [google scholar page](http://goo.gl/aYo3Wa).
 
 ## In-review
 
+* **Niels W. Hanson**, Kishori M. Konwar, and Steven J. Hallam. *LCA\*: an entropy-based measure for taxonomic assignment within assembled metagenomes*, Oxford Bioinformatics. (In Review)
+
 * Dongjae Kim, Aria S. Hahn. **Niels W. Hanson**, Kishori M. Konwar, and Steven J. Hallam. *LAST+: Optimized threading for fast annotation*, Oxford Bioinformatics. (In Review)
 
 * **Niels W. Hanson**, Kishori M. Konwar, Steven J. Hallam. *LCA\*: an entropy-based measure for taxonomic assignment within assembled metagenomes*, Oxford Bioinformatics. (In Review)

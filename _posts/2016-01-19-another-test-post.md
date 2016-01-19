@@ -5,6 +5,7 @@ date: "January 19, 2016"
 output:
   html_document:
     keep_md: yes
+layout: default
 ---
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
@@ -35,6 +36,6 @@ You can also embed plots, for example:
 plot(cars)
 {% endhighlight %}
 
-![plot of chunk unnamed-chunk-2](/figures/unnamed-chunk-2-1.svg)
+![plot of chunk unnamed-chunk-2](/figures/unnamed-chunk-2-1.svg) 
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

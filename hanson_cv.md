@@ -29,7 +29,13 @@ This document is available as a [downloadable pdf](docs/hanson_cv.pdf) or as a m
 
 ## Experience
 
-* 2011 - Now - Bioinformatics Ph.D. Candidate - Steven J. Hallam Laboratory
+* 2016 - Now - Senior Associate Data Scientist - Data & Analytics Lighthouse - KPMG US
+
+* 2015 - Consulting Data Scientist - 42 Technologies (Y Combinator Startup)
+
+   Provided data-driven recommendations and advice for customer targeting, procurement, and staffing initiatives for a number of retail sales data sets. Applied sales forecasting, graph analysis, and collaborative filtering techniques to develop informative product recommendation, customer clustering, and employee staffing models. Also improved the back-end data acquisition and ETL pipeline by developing a statistical outlier detection model by irregularities in file format, size, and arrival time.
+
+* 2015 - Bioinformatics Ph.D. Candidate - Steven J. Hallam Laboratory
 
 	Primary research focuses on the development of MetaPathways, a pipeline developed in Python and C++ for the Big Data processing and analysis challenges of next-generation environmental sequence information. The software accommodates a wide range of experimental conditions, integrates with HPC resources via a master-worker model, and is controlled locally via user-friendly GUI. Moreover, I am involved in all areas of lab data analysis and research, and have utilized a combination of Python and R to develop bespoke solutions to a variety of analytical challenges.
 

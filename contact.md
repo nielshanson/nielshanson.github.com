@@ -7,7 +7,7 @@ title: Website of Niels W. Hanson
 
 Please feel free to contact me via email or phone.
 
-**Phone**: +1 (778) 385-4465
+**Phone**: +1 (206) 612-9509
 
 **Email**: nielshanson[at]gmail.com
 

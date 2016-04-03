@@ -33,7 +33,6 @@ This document is available as a [downloadable pdf](docs/hanson_cv.pdf) or as a m
 
    I am currently a Senior Associate Data Scientist within KPMG's Lighthouse Data & Analytics Center of Excellence. My focus here is on the development of large-scale machine learning pipelines for data-driven decision making in a number of industries, including financial services, retail, and health care. I also like to use my diverse experience with a wide variety of data types to take a novel perspective on classical analytical problems. Some of my specializations include machine learning, software development, graph analytics, mathematical modeling, clustering, database design, information visualization, high-dimensional data mining, and distributed computing.
 
-
 * 2015 - Consulting Data Scientist - 42 Technologies (Y Combinator Startup)
 
    Provided data-driven recommendations and advice for customer targeting, procurement, and staffing initiatives for a number of retail sales data sets. Applied sales forecasting, graph analysis, and collaborative filtering techniques to develop informative product recommendation, customer clustering, and employee staffing models. Also improved the back-end data acquisition and ETL pipeline by developing a statistical outlier detection model by irregularities in file format, size, and arrival time.
